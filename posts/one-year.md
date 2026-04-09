@@ -24,4 +24,10 @@ Since that meeting, I've adopted a personal rule: any time I need to go looking 
 
 ### 3. The hardest problems aren't always technical.
 
-I always assumed the most challenging part of working as a software engineer would be _engineering software_.
+I always assumed the most challenging part of working as a software engineer would be _engineering software_. Squashing bugs. Designing systems. Though my experience may lack larger, more complex initiatives, I've found that these tasks haven't been the most difficult part of the job.
+
+More often than not, the hardest problems I've faced so far in my career have had nothing to do with code. They've been about people. More specifically, communication.
+
+The job involves a _lot_ more communication than I expected at first - daily standups, pair programming, product meetings just to name a few examples. I find myself asking for clarified requirements (and figuring out which questions to even ask), following up on blocking work without coming across as pushy, explaining a technical decision to someone outside the current context, all before lunch most days. There's a lot more...talk than I realized.
+
+Thing is, not everyone's going to be on the same page all the time. Building software involves a lot of decision making, and people disagree.
